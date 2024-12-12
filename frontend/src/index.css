@@ -9,6 +9,13 @@ body {
   padding: 0;
 }
 
+:root {
+  --bright-orange: #EE7C2F;
+  --light-orange: #F19659;
+  --lighter-orange: #ffd8a5;
+  --lightest-organge: #fdf9ed;
+}
+
 html {
   background: #f2f2f2;
   font-family:
